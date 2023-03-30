@@ -1,4 +1,4 @@
-# embedded-datastudio
+# Embedded datastudio project
 
 ## Project setup
 ```
